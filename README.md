@@ -1,4 +1,4 @@
-# Weather-Scraper
+# LoginGUI-PyQt5
 
 Desktop login and registration GUI made with PyQt5.
 
